@@ -2,8 +2,7 @@
 - I design and code apps (web, mobile, desktop)
 - Check out [my portfolio here](https://pratyushbehera23.github.io/links/)
 
-- Tools & tech:
-- JS TS Next Node Flutter AWS
+- Tools & tech: JS TS Next Node Flutter AWS
 
 - Profiles:
 - [LinkedIn](https://www.linkedin.com/in/pratyushbehera23/)
