@@ -1,6 +1,7 @@
 #
 
-![pb_banner](https://github.com/pratyushbehera23/pratyushbehera23/assets/121722022/a24d72e6-ca2c-4be5-8c10-cc8a02eb7b1c)
+<!-- ![pb_banner](https://github.com/pratyushbehera23/pratyushbehera23/assets/121722022/a24d72e6-ca2c-4be5-8c10-cc8a02eb7b1c) -->
+![pb_banner](https://github.com/pratyushbehera23/pratyushbehera23/assets/121722022/007d17b2-58f2-4533-bcbe-53db7702620c)
 
 ## Hey 👋, this is Pratyush  
 
