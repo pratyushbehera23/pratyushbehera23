@@ -5,8 +5,8 @@
 
 ## Hey 👋, this is Pratyush  
 
-An application developer from India  
-I design & build Apps (web/mobile/desktop)  
+A Full-stack developer from India  
+I design layouts & create variables to build full-fledged scalable applications  
 Using tech/tools: Figma JS TS Node Next Flutter AWS ..
 
 ### [My portfolio](https://pratyushbehera23.github.io/) [ links](https://pratyushbehera23.github.io/links/)
